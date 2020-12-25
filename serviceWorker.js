@@ -4,8 +4,8 @@ const filesToCache = [
     'js/main.js',
     'manifest.json',
     'js/bulma.js',
-    'css/bulma.min.css'
-    'images/img1.jpeg',
+    'css/bulma.min.css',
+    'images/img1.jpeg'
     //'images/img2.png',
     //'images/img3.jpeg',
     //'images/img4.jpeg',
